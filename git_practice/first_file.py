@@ -1,4 +1,4 @@
 a = 4 
 b = 17
 sum = a + b
-print(sum)
+print(f"your total of two numer is {sum}")
